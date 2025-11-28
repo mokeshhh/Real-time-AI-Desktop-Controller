@@ -1,0 +1,12 @@
+# .gitignore content
+
+# Sensitive Files
+config.py
+
+# Python Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Distribution/Builds
+dist/
